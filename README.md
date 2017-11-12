@@ -1,5 +1,5 @@
 # EasyCampus
-Google Drive Link: 
+Google Drive Link: https://drive.google.com/open?id=15pSCpDN_H5ajrmQ9w2P5g6ao2esaTyXh  
 ## Inspiration
 When we were freshmen, we had a hard time getting ourselves familiarize with the campus: we didn't know which classes were in which buildings, and even if sometimes we knew the name of the building, we didn't know how to get there as fast as possible. Even if we have campus map, it was very confusing and abstract. As a result, we spent a lot of time finding buildings and sometimes we were even late for classes because of it. 
 Therefore, in order to improve freshmen's experience, we want to use VR to help people feel and know the campus in a better way. Moreover, visitors can also get familiar with the campus before they visit.
