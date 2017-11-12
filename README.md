@@ -1,6 +1,6 @@
 # EasyCampus
 
-##Team:
+## Team:
 Lu Chen,
 Wenze Shi,
 Xueyan Xie,
